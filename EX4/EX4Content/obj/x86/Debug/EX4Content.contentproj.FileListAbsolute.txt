@@ -1,0 +1,5 @@
+C:\XNA\Projects\EX4\EX4\EX4Content\obj\x86\Debug\EX4Content.contentprojResolveAssemblyReference.cache
+C:\XNA\Projects\EX4 - Copy\EX4\EX4Content\obj\x86\Debug\EX4Content.contentprojResolveAssemblyReference.cache
+C:\XNA\Projects\EX4 - extra\EX4\EX4Content\obj\x86\Debug\EX4Content.contentprojResolveAssemblyReference.cache
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4Content\obj\x86\Debug\EX4Content.contentprojResolveAssemblyReference.cache
+F:\AirRaid 2\EX4\EX4Content\obj\x86\Debug\EX4Content.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asplode.wav</Source>
+      <Name>asplode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\asplode.xnb</Output>
+      <Time>2014-09-07T00:06:50.2768443+01:00</Time>
+    </Item>
+    <Item>
+      <Source>asplode2.wav</Source>
+      <Name>asplode2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\asplode2.xnb</Output>
+      <Time>2014-09-07T00:06:50.2788448+01:00</Time>
+    </Item>
+    <Item>
+      <Source>POL-battle-march-long.wav</Source>
+      <Name>POL-battle-march-long</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.xnb</Output>
+      <Extra>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.wma</Extra>
+      <Time>2014-09-07T00:06:51.0562325+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.wav</Source>
+      <Name>shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2014-09-07T00:06:51.3594147+01:00</Time>
+    </Item>
+    <Item>
+      <Source>badguyexplosion.PNG</Source>
+      <Name>badguyexplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\badguyexplosion.xnb</Output>
+      <Time>2014-09-07T00:06:50.2818462+01:00</Time>
+    </Item>
+    <Item>
+      <Source>badguys.PNG</Source>
+      <Name>badguys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\badguys.xnb</Output>
+      <Time>2014-09-07T03:10:41.6568517+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.PNG</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-09-07T23:57:26.5835551+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cloudfg.png</Source>
+      <Name>cloudfg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\cloudfg.xnb</Output>
+      <Time>2014-09-07T00:06:50.3382175+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.PNG</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-09-07T00:06:50.3412193+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player.PNG</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2014-09-07T03:13:13.1086358+01:00</Time>
+    </Item>
+    <Item>
+      <Source>War hero.bmp</Source>
+      <Name>War hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\War hero.xnb</Output>
+      <Time>2014-09-07T00:06:50.2648347+01:00</Time>
+    </Item>
+    <Item>
+      <Source>water002.PNG</Source>
+      <Name>water002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\water002.xnb</Output>
+      <Time>2014-09-07T00:06:50.2758434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseMusic.mp3</Source>
+      <Name>PauseMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseMusic.xnb</Output>
+      <Extra>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseMusic.wma</Extra>
+      <Time>2014-09-29T22:42:54.5445203+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseImage.jpg</Source>
+      <Name>PauseImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseImage.xnb</Output>
+      <Time>2014-09-29T22:50:38.9247678+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\XNA\Projects\EX4 - extra\EX4\EX4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\XNA\Projects\EX4 - extra\EX4\EX4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\XNA\Projects\EX4 - extra\EX4\EX4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-16T15:00:46.4681741+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

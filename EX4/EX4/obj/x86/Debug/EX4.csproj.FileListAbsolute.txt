@@ -1,0 +1,103 @@
+C:\XNA\Projects\EX4\EX4\EX4\obj\x86\Debug\EX4.csprojResolveAssemblyReference.cache
+C:\XNA\Projects\EX4\EX4\EX4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\asplode.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\asplode2.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\shoot.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\badguyexplosion.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\badguys.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\cloudfg.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\explosion.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\player.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\water002.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\EX4.exe
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\EX4.pdb
+C:\XNA\Projects\EX4\EX4\EX4\obj\x86\Debug\EX4.exe
+C:\XNA\Projects\EX4\EX4\EX4\obj\x86\Debug\EX4.pdb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\bullet.xnb
+C:\XNA\Projects\EX4\EX4\EX4\bin\x86\Debug\Content\War hero.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\obj\x86\Debug\EX4.csprojResolveAssemblyReference.cache
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\obj\x86\Debug\EX4.exe
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\asplode.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\asplode2.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\shoot.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\badguyexplosion.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\badguys.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\bullet.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\cloudfg.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\explosion.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\player.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\War hero.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\water002.xnb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\EX4.exe
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\EX4.pdb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\obj\x86\Debug\EX4.pdb
+C:\XNA\Projects\EX4 - Copy\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.wma
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\asplode.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\asplode2.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\shoot.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\badguyexplosion.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\badguys.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\bullet.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\cloudfg.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\explosion.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\player.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\War hero.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\water002.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.wma
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\EX4.exe
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\EX4.pdb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\obj\x86\Debug\EX4.csprojResolveAssemblyReference.cache
+C:\XNA\Projects\EX4 - extra\EX4\EX4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNA\Projects\EX4 - extra\EX4\EX4\obj\x86\Debug\EX4.exe
+C:\XNA\Projects\EX4 - extra\EX4\EX4\obj\x86\Debug\EX4.pdb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseMusic.xnb
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseMusic.wma
+C:\XNA\Projects\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseImage.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\asplode.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\asplode2.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\shoot.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\badguyexplosion.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\badguys.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\bullet.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\cloudfg.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\explosion.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\player.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\War hero.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\water002.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseImage.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseMusic.xnb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.wma
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\Content\PauseMusic.wma
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\EX4.exe
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\bin\x86\Debug\EX4.pdb
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\obj\x86\Debug\EX4.csprojResolveAssemblyReference.cache
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\obj\x86\Debug\EX4.exe
+E:\College 2\Game Programming\EX\EX4 - extra\EX4\EX4\obj\x86\Debug\EX4.pdb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\asplode.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\asplode2.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\shoot.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\badguyexplosion.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\badguys.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\bullet.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\cloudfg.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\explosion.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\player.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\War hero.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\water002.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\PauseImage.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\PauseMusic.xnb
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\POL-battle-march-long.wma
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\Content\PauseMusic.wma
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\EX4.exe
+F:\AirRaid 2\EX4\EX4\bin\x86\Debug\EX4.pdb
+F:\AirRaid 2\EX4\EX4\obj\x86\Debug\EX4.csprojResolveAssemblyReference.cache
+F:\AirRaid 2\EX4\EX4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AirRaid 2\EX4\EX4\obj\x86\Debug\EX4.exe
+F:\AirRaid 2\EX4\EX4\obj\x86\Debug\EX4.pdb
